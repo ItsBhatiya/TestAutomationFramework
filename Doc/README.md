@@ -16,7 +16,11 @@
 
    **Note :** I've used robotframework-seleniumlibrary lib version 4.5.0
 
-5. Download Chrome Driver: http://chromedriver.chromium.org/downloads
+5. pip install selenium
+   
+   **Note :** I've used selenium lib version 3.141.0
+
+6. Download Chrome Driver: http://chromedriver.chromium.org/downloads
     
    **Note :** should have compaitable webdriver installed according to the latest browser version used for executing the script
 
